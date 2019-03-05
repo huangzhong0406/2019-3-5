@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="330a4b81-23af-4188-9e9a-ac6eb0c8a26e" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="track.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../track.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="501">
+              <caret line="800" column="37" lean-forward="true" selection-start-line="800" selection-start-column="37" selection-end-line="800" selection-end-column="37" />
+              <folding>
+                <element signature="e#725#23836#0" />
+                <element signature="e#23931#24595#0" />
+                <element signature="e#24635#25130#0" />
+                <element signature="e#25188#25328#0" />
+                <element signature="e#29545#29999#0" />
+                <element signature="e#30055#31085#0" />
+                <element signature="e#31140#32888#0" />
+                <element signature="e#32942#33631#0" />
+                <element signature="e#33685#35874#0" />
+                <element signature="e#35938#36203#0" />
+                <element signature="e#36270#37485#0" />
+                <element signature="e#37551#37822#0" />
+                <element signature="e#37887#38220#0" />
+                <element signature="e#38282#39113#0" />
+                <element signature="e#39153#40020#0" />
+                <element signature="e#40060#41087#0" />
+                <element signature="e#41134#41896#0" />
+                <element signature="e#41944#42759#0" />
+                <element signature="e#42817#44396#0" />
+                <element signature="e#44453#44865#0" />
+                <element signature="e#44915#45046#0" />
+                <element signature="e#45086#45295#0" />
+                <element signature="e#45352#45674#0" />
+                <element signature="e#45723#46117#0" />
+                <element signature="e#46153#46321#0" />
+                <element signature="e#46358#46657#0" />
+                <element signature="e#46696#46968#0" />
+                <element signature="e#47010#47636#0" />
+                <element signature="e#47811#48184#0" />
+                <element signature="e#48284#48735#0" />
+                <element signature="e#48785#48997#0" />
+                <element signature="e#49284#50301#0" />
+                <element signature="e#50653#50677#0" />
+                <element signature="e#50709#50742#0" />
+                <element signature="e#50797#51168#0" />
+                <element signature="e#51174#51436#0" />
+                <element signature="e#51191#51434#0" />
+                <element signature="e#51631#53850#0" />
+                <element signature="e#53961#55821#0" />
+                <element signature="e#55851#56529#0" />
+                <element signature="e#56895#57554#0" />
+                <element signature="e#56961#57548#0" />
+                <element signature="e#57606#57954#0" />
+                <element signature="e#58672#58890#0" />
+                <element signature="e#58924#59130#0" />
+                <element signature="e#59172#59783#0" />
+                <element signature="e#59822#60005#0" />
+                <element signature="e#60046#60660#0" />
+                <element signature="e#60683#61518#0" />
+                <element signature="e#61597#61628#0" />
+                <element signature="e#61739#61781#0" />
+                <element signature="e#61876#65832#0" />
+                <element signature="e#65867#65999#0" />
+                <element signature="e#66122#66424#0" />
+                <element signature="e#66451#67248#0" />
+                <element signature="e#67370#68275#0" />
+                <element signature="e#68310#68483#0" />
+                <element signature="e#68512#68812#0" />
+                <element signature="e#68834#69546#0" />
+                <element signature="e#69565#70313#0" />
+                <element signature="e#70362#70495#0" />
+                <element signature="e#70522#70851#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_cookie_name.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_cookie_name.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singoocookie_etag.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/singoocookie_etag.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="584">
+              <caret line="78" selection-start-line="78" selection-end-line="78" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singoocookie_cache.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/singoocookie_cache.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="singoocookie_png.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/singoocookie_png.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>context.getContext('2d');</find>
+      <find>document.cookie)</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/hsts_cookie.php" />
+        <option value="$PROJECT_DIR$/singoocookie_etag.php" />
+        <option value="$PROJECT_DIR$/singoocookie_cache.php" />
+        <option value="$PROJECT_DIR$/_cookie_name.php" />
+        <option value="$PROJECT_DIR$/singoocookie_png.php" />
+        <option value="$PROJECT_DIR$/../track.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="124" />
+    <option name="y" value="102" />
+    <option name="width" value="1680" />
+    <option name="height" value="1036" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="330a4b81-23af-4188-9e9a-ac6eb0c8a26e" name="Default" comment="" />
+      <created>1551690627265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551690627265</updated>
+      <workItem from="1551690628655" duration="3328000" />
+      <workItem from="1551694024308" duration="3000" />
+      <workItem from="1551694074625" duration="31577000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34908000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944505" visible="true" weight="0.14658849" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" sideWeight="0.5005549" side_tool="true" weight="0.2553305" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../track.js</url>
+          <line>802</line>
+          <properties lambdaOrdinal="-1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../track.js</url>
+          <line>1492</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../track.js</url>
+          <line>1287</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../track.js</url>
+          <line>904</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../track.js</url>
+          <line>950</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/../track.js</url>
+          <line>874</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_cookie_name.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singoocookie_png.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singoocookie_etag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_cookie_name.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singoocookie_png.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singoocookie_etag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="691" column="9" selection-start-line="691" selection-start-column="9" selection-end-line="691" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/evercookie_cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="49" selection-start-line="22" selection-start-column="40" selection-end-line="22" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/gd/gd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="558" column="9" selection-start-line="558" selection-start-column="9" selection-end-line="558" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hsts_cookie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../track.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="800" column="37" lean-forward="true" selection-start-line="800" selection-start-column="37" selection-end-line="800" selection-end-column="37" />
+          <folding>
+            <element signature="e#725#23836#0" />
+            <element signature="e#23931#24595#0" />
+            <element signature="e#24635#25130#0" />
+            <element signature="e#25188#25328#0" />
+            <element signature="e#29545#29999#0" />
+            <element signature="e#30055#31085#0" />
+            <element signature="e#31140#32888#0" />
+            <element signature="e#32942#33631#0" />
+            <element signature="e#33685#35874#0" />
+            <element signature="e#35938#36203#0" />
+            <element signature="e#36270#37485#0" />
+            <element signature="e#37551#37822#0" />
+            <element signature="e#37887#38220#0" />
+            <element signature="e#38282#39113#0" />
+            <element signature="e#39153#40020#0" />
+            <element signature="e#40060#41087#0" />
+            <element signature="e#41134#41896#0" />
+            <element signature="e#41944#42759#0" />
+            <element signature="e#42817#44396#0" />
+            <element signature="e#44453#44865#0" />
+            <element signature="e#44915#45046#0" />
+            <element signature="e#45086#45295#0" />
+            <element signature="e#45352#45674#0" />
+            <element signature="e#45723#46117#0" />
+            <element signature="e#46153#46321#0" />
+            <element signature="e#46358#46657#0" />
+            <element signature="e#46696#46968#0" />
+            <element signature="e#47010#47636#0" />
+            <element signature="e#47811#48184#0" />
+            <element signature="e#48284#48735#0" />
+            <element signature="e#48785#48997#0" />
+            <element signature="e#49284#50301#0" />
+            <element signature="e#50653#50677#0" />
+            <element signature="e#50709#50742#0" />
+            <element signature="e#50797#51168#0" />
+            <element signature="e#51174#51436#0" />
+            <element signature="e#51191#51434#0" />
+            <element signature="e#51631#53850#0" />
+            <element signature="e#53961#55821#0" />
+            <element signature="e#55851#56529#0" />
+            <element signature="e#56895#57554#0" />
+            <element signature="e#56961#57548#0" />
+            <element signature="e#57606#57954#0" />
+            <element signature="e#58672#58890#0" />
+            <element signature="e#58924#59130#0" />
+            <element signature="e#59172#59783#0" />
+            <element signature="e#59822#60005#0" />
+            <element signature="e#60046#60660#0" />
+            <element signature="e#60683#61518#0" />
+            <element signature="e#61597#61628#0" />
+            <element signature="e#61739#61781#0" />
+            <element signature="e#61876#65832#0" />
+            <element signature="e#65867#65999#0" />
+            <element signature="e#66122#66424#0" />
+            <element signature="e#66451#67248#0" />
+            <element signature="e#67370#68275#0" />
+            <element signature="e#68310#68483#0" />
+            <element signature="e#68512#68812#0" />
+            <element signature="e#68834#69546#0" />
+            <element signature="e#69565#70313#0" />
+            <element signature="e#70362#70495#0" />
+            <element signature="e#70522#70851#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_cookie_name.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singoocookie_etag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="584">
+          <caret line="78" selection-start-line="78" selection-end-line="78" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singoocookie_cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/singoocookie_png.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
